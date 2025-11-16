@@ -21,7 +21,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-00A98F?style=for-the-badge)
 
-## 🌟 Featured Projects
+## 🌟 Projets Récents
 
 ### ⚽ [Premier League Predictor - MLOps Pipeline]()
 *Pipeline MLOps complet pour la prédiction des matchs de football*
@@ -29,17 +29,15 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 ├── data_versioning/    # DVC
 ├── model_training/     # MLflow
 ├── deployment/         # Docker + FastAPI
-└── monitoring/         # Evidently AI
+└── monitoring/         # Github Actions
 ```
-
-## 🌟 Projets Récents
 
 ### 🤖 Chatbot RAG - Recherche Documentaire
 **Assistant IA pour la recherche dans des documents PDF**
 
 - **Embeddings** avec Sentence Transformers
 - **Vector DB** avec FAISS  
-- **Interface** Streamlit
+- **Interface** Gradio
 
 ### 🎬 Système de Recommandation de Films
 **Moteur de recommandation hybride**
