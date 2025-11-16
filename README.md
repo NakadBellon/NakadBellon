@@ -1,16 +1,82 @@
-## Hi there 👋
+# 🚀 Bellon Nakad - Data Scientist & AI Enthusiast
 
-<!--
-**NakadBellon/NakadBellon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé en **Machine Learning, MLOps et IA Générative**. J'aime transformer des données complexes en solutions innovantes avec un impact concret.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Data Science & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### **MLOps & DevOps**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **LLM & NLP**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Architecture-00A98F?style=for-the-badge)
+
+## 🌟 Featured Projects
+
+### ⚽ [Premier League Predictor - MLOps Pipeline]()
+*Pipeline MLOps complet pour la prédiction des matchs de football*
+```bash
+├── data_versioning/    # DVC
+├── model_training/     # MLflow
+├── deployment/         # Docker + FastAPI
+└── monitoring/         # Evidently AI
+```
+
+## 🌟 Projets Récents
+
+### 🤖 Chatbot RAG - Recherche Documentaire
+**Assistant IA pour la recherche dans des documents PDF**
+
+- **Embeddings** avec Sentence Transformers
+- **Vector DB** avec FAISS  
+- **Interface** Streamlit
+
+### 🎬 Système de Recommandation de Films
+**Moteur de recommandation hybride**
+
+- Filtrage collaboratif + content-based
+- Comparaison modèles Deep Learning
+
+## 📊 Certifications
+
+| Badge | Certification | Organisme |
+|-------|---------------|-----------|
+| 🔧 | MLOps Practitioner | Dataiku |
+| 🎨 | Generative AI Practitioner | Dataiku |
+| ⚡ | Advanced Designer | Dataiku |
+
+## 💼 Expérience
+
+**Chargé d'études statistiques** @Covéa GMF - Alternance
+
+- Développement modèle prédictif (3.5M+ sociétaires)
+- Segmentation réseau d'agences via clustering
+- Automatisation processus de reporting
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakadbellon@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://votre-portfolio.com)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NakadBellon&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NakadBellon&layout=compact&theme=radical)
+
+---
+
+> *"Data Scientist passionné par la création de solutions IA qui ont un impact réel"*
+
+⭐ **N'hésitez pas à explorer mes repos et à me contacter pour collaborer !**
