@@ -37,11 +37,13 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 
 **IBM Watsonx** pour:
 - Text generation
-- Text embeddings 
+- Text embeddings
+
 **LangChain** pour:
 - Document loading
 - Text splitting into chunks
-- Vector database and retrieval   
+- Vector database and retrieval
+
 **Interface** Gradio
 
 ### 🎬 Système de Recommandation de Films
