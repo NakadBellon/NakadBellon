@@ -23,7 +23,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 
 ## 🌟 Projets Récents
 
-### ⚽ [Premier League Predictor - MLOps Pipeline]()
+### ⚽ [Premier League Predictor - MLOps Pipeline](https://github.com/NakadBellon/machine-learning-premier-league-predictor)
 *Pipeline MLOps complet pour la prédiction des matchs de football*
 ```bash
 ├── data_versioning/    # DVC
@@ -32,12 +32,17 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 └── monitoring/         # Github Actions
 ```
 
-### 🤖 Chatbot RAG - Recherche Documentaire
+### 🤖 [Chatbot RAG - Recherche Documentaire](https://github.com/NakadBellon/RAG-based-PDF-Chatbot-with-IBM-Watsonx-and-LangChain)
 **Assistant IA pour la recherche dans des documents PDF**
 
-- **Embeddings** avec Sentence Transformers
-- **Vector DB** avec FAISS  
-- **Interface** Gradio
+**IBM Watsonx** pour:
+- Text generation
+- Text embeddings 
+**LangChain** pour:
+- Document loading
+- Text splitting into chunks
+- Vector database and retrieval   
+**Interface** Gradio
 
 ### 🎬 Système de Recommandation de Films
 **Moteur de recommandation hybride**
