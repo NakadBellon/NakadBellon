@@ -57,7 +57,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 | Badge | Certification | Organisme |
 |-------|---------------|-----------|
 | 🔧 | MLOps Practitioner | Dataiku |
-| 🎨 | Generative AI Practitioner | Dataiku |
+| 🎨 | ML Practitioner | Dataiku |
 | ⚡ | Advanced Designer | Dataiku |
 
 ## 💼 Expérience
