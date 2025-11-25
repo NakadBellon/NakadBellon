@@ -15,6 +15,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **LLM & NLP**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
