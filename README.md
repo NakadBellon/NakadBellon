@@ -29,7 +29,6 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 
 **Système de prédiction footballistique allant du scraping de données au déploiement cloud, démontrant une maîtrise complète des pratiques MLOps modernes.**
 
----
 
 #### 🚀 Highlights Techniques
 
@@ -50,7 +49,6 @@ Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé
 - **Features avancées** : xG, forme des équipes, statistiques temporelles
 - **Pipeline de données** automatisé et reproductible
 
----
 
 #### 🏗️ Architecture & Déploiement
 
@@ -63,7 +61,6 @@ Data Scraping → Feature Engineering → Model Training → MLflow Tracking →
 - **API FastAPI** : Endpoints REST pour intégrations
 - **CI/CD** : GitHub Actions pour déploiement automatique
 
----
 
 #### 🎖️ Compétences Démontrées
 
@@ -75,7 +72,6 @@ Data Scraping → Feature Engineering → Model Training → MLflow Tracking →
 | **Déploiement** | Streamlit, FastAPI, Hugging Face | Application full-stack |
 | **DevOps** | Docker, GitHub Actions, CI/CD | Infrastructure as Code |
 
----
 
 #### 📈 Résultats Concrets
 
@@ -89,7 +85,6 @@ Data Scraping → Feature Engineering → Model Training → MLflow Tracking →
 - **Prédictions match** en <2 secondes
 - **Simulations saison** en <10 minutes
 
----
 
 #### 💡 Valeur Ajoutée
 
