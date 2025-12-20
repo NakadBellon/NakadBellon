@@ -1,6 +1,6 @@
-# 🚀 Bellon Nakad - Data Scientist & AI Enthusiast
+# 🚀 Bellon Nakad - Étudiant Data Scientist
 
-Bienvenue sur mon GitHub ! Je suis un **Data Scientist passionné** spécialisé en **Machine Learning, MLOps et IA Générative**. J'aime transformer des données complexes en solutions innovantes avec un impact concret.
+Bienvenue sur mon GitHub ! Je suis un étudiant **Data Scientist passionné** par le **Machine Learning, le MLOps et l'IA Générative**. J'aime transformer des données complexes en solutions innovantes avec un impact concret.
 
 ## 🛠️ Tech Stack
 
