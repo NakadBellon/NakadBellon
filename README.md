@@ -98,7 +98,7 @@ Ce projet démontre ma capacité à **concevoir, développer et déployer** des 
 
 *Prêt à relever de nouveaux défis techniques et business !* 🚀
 
-### 🤖 [Chatbot RAG - Recherche Documentaire](https://github.com/NakadBellon/RAG-based-PDF-Chatbot-with-IBM-Watsonx-and-LangChain)
+### 🤖 [Chatbot IA (RAG) - Recherche Documentaire](https://github.com/NakadBellon/RAG-based-PDF-Chatbot-with-IBM-Watsonx-and-LangChain)
 **Assistant IA pour la recherche dans des documents PDF**
 
 **IBM Watsonx** pour:
