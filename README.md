@@ -118,6 +118,35 @@ Ce projet démontre ma capacité à **concevoir, développer et déployer** des 
 - Filtrage collaboratif + content-based
 - Comparaison modèles Deep Learning
 
+## 🎓 Formation
+
+### 🏫 École d’Ingénieur EFREI Paris
+**Cycle Ingénieur – Big Data & Machine Learning**  
+📅 2026 – 2028  
+
+- Machine Learning avancé
+- Deep Learning & IA générative
+- Data Engineering & Big Data
+- MLOps et systèmes ML en production
+- Architecture logicielle et APIs
+
+### 🎓 Master 2 Statistiques & Data Science – Université Paris-Est Créteil
+📅 2023 – 2025  
+
+- Modélisation statistique et économétrie
+- Machine Learning supervisé et non supervisé
+- Analyse de données à grande échelle
+- Optimisation et inférence statistique
+
+### 🎓 Licence Économie – Parcours Monnaie & Finance - Université Paris 2 Panthéon-Assas
+📅 2020 – 2023  
+
+- Mathématiques et Statistiques
+- Finance de marché et d’entreprises
+- Macro et Microéconomie 
+- Économétrie
+
+
 ## 📊 Certifications
 
 | Badge | Certification | Organisme |
