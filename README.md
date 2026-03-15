@@ -102,9 +102,9 @@ Ce projet démontre ma capacité à **concevoir, développer et déployer** des 
 **Assistant IA pour la recherche dans des documents PDF**
 
 **IBM Watsonx** pour:
-- Text generation
-- Text embeddings
-
+- Text generation (Modèle LLM : Mistral Ai)
+- Text embeddings (Modèle d'embedding : IBM)
+  
 **LangChain** pour:
 - Document loading
 - Text splitting into chunks
