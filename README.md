@@ -23,6 +23,122 @@ Bienvenue sur mon GitHub ! Je suis un étudiant passionné par le **Machine Lear
 
 ## 🌟 Projets Récents
 
+### 🛡️ [AI Pentest — AI Engineering for Cybersecurity](https://github.com/NakadBellon/ai-pentest)
+
+#### 🎯 Projet d’AI Engineering appliqué à la cybersécurité
+
+**Plateforme d’analyse automatisée de résultats de sécurité combinant ingestion de données, corrélation de findings, embeddings locaux et agents IA pour assister le triage de vulnérabilités dans un cadre de test autorisé.**
+
+Le projet a été conçu comme une démarche **end-to-end d’AI Engineering**, depuis la structuration et la normalisation des données de sécurité jusqu’à l’intégration d’un **agent LLM local orchestré avec LangGraph**.
+
+#### 🚀 Highlights Techniques
+
+##### 🔍 Pipeline de Sécurité
+
+* **Nmap XML** : ingestion et parsing de résultats de scans
+* **Pydantic** : modèles de données typés et validation
+* **Normalization** : transformation des résultats bruts en objets de sécurité structurés
+* **Correlation Engine** : détection de similarités entre findings
+* **Evaluation Framework** : mesure de la qualité de la corrélation avec un golden dataset
+
+##### 🧠 AI & Machine Learning
+
+* **TF-IDF** : première approche de similarité textuelle déterministe
+* **Embeddings locaux** avec `nomic-embed-text`
+* **Ollama** : exécution locale de modèles open-source
+* **Qwen3 4B** : LLM local utilisé pour l'analyse des findings
+* **LangChain** : intégration du LLM et structured outputs
+* **Pydantic** : validation des réponses structurées générées par le LLM
+
+##### 🤖 Agentic AI
+
+* **Tool Calling** : capacité du LLM à sélectionner des outils selon le contexte
+* **LangGraph** : orchestration du workflow agentique
+* **ToolNode** : exécution contrôlée des outils
+* **StateGraph** : gestion de l'état et de l'historique des messages
+* **Security Knowledge Base** : contexte local sur les services et technologies
+* **Evidence-based analysis** : l'agent doit s'appuyer sur les informations disponibles avant de produire son analyse
+
+#### 🏗️ Architecture
+
+```text
+Security Tools
+      ↓
+   Ingestion
+      ↓
+ Normalization
+      ↓
+  Correlation
+      ↓
+Finding + Evidence
+      ↓
+ LangGraph Agent
+      ↓
+      LLM
+   ┌──┼────────────────────┐
+   ↓  ↓                    ↓
+Context  Evidence   Security Knowledge
+   └──┼────────────────────┘
+      ↓
+  AI Analysis
+```
+
+#### 🧪 Qualité & Tests
+
+* **183 tests automatisés**
+* Tests unitaires et d'intégration
+* Golden dataset pour l'évaluation de la corrélation
+* Tests d'intégration avec **Ollama**
+* Validation des modèles et des sorties structurées
+* Tests du routing et du cycle d'exécution LangGraph
+
+##### 📊 Résultats de corrélation
+
+* **Accuracy : 95.0%**
+* **Precision : 100%**
+* **Recall : 91.7%**
+* **F1-score : 95.7%**
+
+#### 🧩 Architecture Logicielle
+
+| Domaine                  | Technologies              | Réalisation                      |
+| ------------------------ | ------------------------- | -------------------------------- |
+| **Security Data**        | Nmap, XML, Pydantic       | Ingestion et normalisation       |
+| **Machine Learning**     | Scikit-learn, TF-IDF      | Similarité et corrélation        |
+| **Embeddings**           | Ollama, nomic-embed-text  | Représentation sémantique locale |
+| **LLM**                  | Qwen3, Ollama             | Analyse locale des findings      |
+| **AI Engineering**       | LangChain, LangGraph      | Chains, tools et agent           |
+| **Software Engineering** | Python, pytest, Git       | Architecture modulaire et tests  |
+| **Security**             | Pentest, triage, evidence | Analyse dans un cadre autorisé   |
+
+#### 🔐 Approche Security-by-Design
+
+Le projet privilégie une approche **read-only et evidence-based** :
+
+* Les outils IA analysent les données fournies par les outils de sécurité.
+* Aucune exploitation automatique de vulnérabilités n'est implémentée.
+* L'agent distingue les **faits observés** des **hypothèses**.
+* Les informations non présentes dans les données doivent être signalées comme insuffisamment documentées.
+* Le projet est destiné à des **tests de sécurité autorisés et à un usage éducatif**.
+
+#### 💡 Objectif du Projet
+
+Ce projet me permet d'explorer concrètement la conception de systèmes **AI Engineering** appliqués à la cybersécurité, en travaillant progressivement sur :
+
+* la conception d'architectures Python modulaires ;
+* l'ingestion et la structuration de données de sécurité ;
+* les méthodes de similarité et de corrélation ;
+* les embeddings et les LLM locaux ;
+* le **tool calling** et les agents IA ;
+* l'orchestration avec **LangGraph** ;
+* les tests unitaires et d'intégration ;
+* la conception de systèmes IA fiables et contrôlables.
+
+**Stack :** Python • Pydantic • Scikit-learn • Ollama • Qwen3 • LangChain • LangGraph • pytest • Nmap • Git
+
+*Building AI Engineering systems for cybersecurity — one layer at a time. 🛡️🤖*
+
+
 ### ⚽ [Premier League Predictor - MLOps Pipeline](https://github.com/NakadBellon/machine-learning-premier-league-predictor)
 
 #### 🎯 Projet Démonstrateur MLOps
@@ -97,26 +213,6 @@ Ce projet démontre ma capacité à **concevoir, développer et déployer** des 
 **Stack :** Python • MLflow • Docker • Streamlit • FastAPI • Hugging Face • Scikit-learn
 
 *Prêt à relever de nouveaux défis techniques et business !* 🚀
-
-### 🤖 [Chatbot IA (RAG) - Recherche Documentaire](https://github.com/NakadBellon/RAG-based-PDF-Chatbot-with-IBM-Watsonx-and-LangChain)
-**Assistant IA pour la recherche dans des documents PDF**
-
-**IBM Watsonx** pour:
-- Text generation (Modèle LLM : Mistral Ai)
-- Text embeddings (Modèle d'embedding : IBM)
-  
-**LangChain** pour:
-- Document loading
-- Text splitting into chunks
-- Vector database and retrieval
-
-**Interface** Gradio
-
-### 🎬 Système de Recommandation de Films
-**Moteur de recommandation hybride**
-
-- Filtrage collaboratif + content-based
-- Comparaison modèles Deep Learning
 
 ## 🎓 Formation
 
