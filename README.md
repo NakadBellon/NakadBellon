@@ -62,25 +62,25 @@ Le projet a été conçu comme une démarche **end-to-end d’AI Engineering**, 
 #### 🏗️ Architecture
 
 ```text
-Security Tools
-      ↓
-   Ingestion
-      ↓
- Normalization
-      ↓
-  Correlation
-      ↓
-Finding + Evidence
-      ↓
- LangGraph Agent
-      ↓
-      LLM
-   ┌──┼────────────────────┐
-   ↓  ↓                    ↓
+      Security Tools
+            ↓
+         Ingestion
+            ↓
+       Normalization
+            ↓
+        Correlation
+            ↓
+      Finding + Evidence
+            ↓
+       LangGraph Agent
+            ↓
+           LLM
+   ┌────────┼──────────────┐
+   ↓        ↓              ↓
 Context  Evidence   Security Knowledge
-   └──┼────────────────────┘
-      ↓
-  AI Analysis
+   └────────┼──────────────┘
+            ↓
+        AI Analysis
 ```
 
 #### 🧪 Qualité & Tests
@@ -135,8 +135,6 @@ Ce projet me permet d'explorer concrètement la conception de systèmes **AI Eng
 * la conception de systèmes IA fiables et contrôlables.
 
 **Stack :** Python • Pydantic • Scikit-learn • Ollama • Qwen3 • LangChain • LangGraph • pytest • Nmap • Git
-
-*Building AI Engineering systems for cybersecurity — one layer at a time. 🛡️🤖*
 
 
 ### ⚽ [Premier League Predictor - MLOps Pipeline](https://github.com/NakadBellon/machine-learning-premier-league-predictor)
