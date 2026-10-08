@@ -1,4 +1,4 @@
-# 🚀 Bellon Nakad - Étudiant en cycle ingénieur spécialisation IA/ML
+# 🚀 Bellon Nakad 
 
 Bienvenue sur mon GitHub ! Je suis un étudiant passionné par le **Machine Learning, le MLOps et l'IA Générative**. J'aime transformer des données complexes en solutions innovantes avec un impact concret.
 
